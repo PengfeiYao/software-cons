@@ -1,0 +1,420 @@
+	===========================================================
+	|               Distributed TigerBook System!              |
+	===========================================================
+Please enter user name: Pengfei
+	===========================================================
+	|    Welcome to Distributed TigerBook System Pengfei!              |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #tiger
+	===========================================================
+	|    Pengfei has joined group #tiger    |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: w
+
+===========================================
+|              Pengfei¡¯s Wall Page            |
+===========================================
+ (Kelly) > 
+this is pengfei to Kelly 3
+
+ (#eagle) > 
+this is pengfei to eagle 2
+
+More messages(yes/no): yes
+ (#ALL) > 
+this is pengfei to all 1
+
+===========================================
+|              End of Pengfei¡¯s Wall Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              Pengfei¡¯s Home Page            |
+===========================================
+wanqi (#tiger) > 
+askjfhakl
+hakljsfdha
+fhkajdfk
+
+wanqi (#ALL) > 
+hello ! all
+this is wanqi
+
+More messages(yes/no): yes
+Natt >
+this is Natt 2
+hello!
+
+Natt (#ALL) > 
+Natt to all 1
+Natt natt 1
+
+Mika (#tiger) > 
+mika to tigers 2
+
+Mika (#ALL) > 
+mika to all 1
+mika mika 1
+
+Kelly >
+Kelly to Pengfei 3
+
+Kelly (#ALL) > 
+Kelly to All 1
+
+Pengfei (Kelly) > 
+this is pengfei to Kelly 3
+
+Pengfei (#eagle) > 
+this is pengfei to eagle 2
+
+Pengfei (#ALL) > 
+this is pengfei to all 1
+
+===========================================
+|              End of Pengfei¡¯s Home Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: q
+
+	==============================================================
+	|           Thank you for using DistributedTigerBook System    |
+	==============================================================
+--------------------------------------------------------------------------------------------------------------------------------
+	===========================================================
+	|               Distributed TigerBook System!              |
+	===========================================================
+Please enter user name: Kelly
+	===========================================================
+	|    Welcome to Distributed TigerBook System Kelly!              |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #tiger
+	===========================================================
+	|    Kelly has joined group #tiger    |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              Kelly¡¯s Home Page            |
+===========================================
+wanqi >
+jasdfjklas
+this is wanqi 
+
+wanqi (#tiger) > 
+askjfhakl
+hakljsfdha
+fhkajdfk
+
+More messages(yes/no): yes
+wanqi (#ALL) > 
+hello ! all
+this is wanqi
+
+Natt (#ALL) > 
+Natt to all 1
+Natt natt 1
+
+Mika (#tiger) > 
+mika to tigers 2
+
+Mika (#ALL) > 
+mika to all 1
+mika mika 1
+
+Kelly (Pengfei) > 
+Kelly to Pengfei 3
+
+Kelly (#eagle) > 
+Kelly to eagle 2
+
+Kelly (#ALL) > 
+Kelly to All 1
+
+Pengfei >
+this is pengfei to Kelly 3
+
+Pengfei (#ALL) > 
+this is pengfei to all 1
+
+===========================================
+|              End of Kelly¡¯s Home Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: w
+
+===========================================
+|              Kelly¡¯s Wall Page            |
+===========================================
+ (Pengfei) > 
+Kelly to Pengfei 3
+
+ (#eagle) > 
+Kelly to eagle 2
+
+More messages(yes/no): yes
+ (#ALL) > 
+Kelly to All 1
+
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: q
+
+	==============================================================
+	|           Thank you for using DistributedTigerBook System    |
+	==============================================================
+--------------------------------------------------------------------------------------------------------------------------
+	===========================================================
+	|               Distributed TigerBook System!              |
+	===========================================================
+Please enter user name: Natt
+	===========================================================
+	|    Welcome to Distributed TigerBook System Natt!              |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #tiger
+	===========================================================
+	|    Natt has joined group #tiger    |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: w
+
+===========================================
+|              Natt¡¯s Wall Page            |
+===========================================
+ (Pengfei) > 
+this is Natt 2
+hello!
+
+ (#ALL) > 
+Natt to all 1
+Natt natt 1
+
+===========================================
+|              End of Natt¡¯s Wall Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              Natt¡¯s Home Page            |
+===========================================
+wanqi (#tiger) > 
+askjfhakl
+hakljsfdha
+fhkajdfk
+
+wanqi (#ALL) > 
+hello ! all
+this is wanqi
+
+More messages(yes/no): yes
+Natt (Pengfei) > 
+this is Natt 2
+hello!
+
+Natt (#ALL) > 
+Natt to all 1
+Natt natt 1
+
+Mika (#tiger) > 
+mika to tigers 2
+
+Mika (#ALL) > 
+mika to all 1
+mika mika 1
+
+Kelly (#ALL) > 
+Kelly to All 1
+
+Pengfei (#ALL) > 
+this is pengfei to all 1
+
+===========================================
+|              End of Natt¡¯s Home Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: q
+
+	==============================================================
+	|           Thank you for using DistributedTigerBook System    |
+	==============================================================
+---------------------------------------------------------------------------------------------------------------
+	===========================================================
+	|               Distributed TigerBook System!              |
+	===========================================================
+Please enter user name: Matt
+	===========================================================
+	|    Welcome to Distributed TigerBook System Matt!              |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #tiger
+	===========================================================
+	|    Matt has joined group #tiger    |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #eagle
+	===========================================================
+	|    Matt has joined group #eagle    |
+	===========================================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: b
+
+Enter message: this is Matt
+hi!
+^!
+	===========================================================
+	|    Matt has broadcast a new message    |
+	===========================================================
+
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: m
+
+Please enter group name: #tiger
+
+Enter message: hi tigers!
+this is Matt
+^!
+	===========================================================
+	|    Matt has multicasted a message to group #tiger    |
+	===========================================================
+
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: u
+
+Enter the recipient user name: Kelly
+
+Enter message: this is Matt
+hi Kelly!
+^!
+	===========================================================
+	|    Matt has unicasted a message to Kelly    |
+	===========================================================
+
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              Matt¡¯s Home Page            |
+===========================================
+Matt (Kelly) > 
+this is Matt
+hi Kelly!
+
+Matt (#tiger) > 
+hi tigers!
+this is Matt
+
+More messages(yes/no): yes
+Matt (#ALL) > 
+this is Matt
+hi!
+
+wanqi (#ALL) > 
+hello ! all
+this is wanqi
+
+Natt (#ALL) > 
+Natt to all 1
+Natt natt 1
+
+Mika (#ALL) > 
+mika to all 1
+mika mika 1
+
+Kelly (#eagle) > 
+Kelly to eagle 2
+
+Kelly (#ALL) > 
+Kelly to All 1
+
+Pengfei (#eagle) > 
+this is pengfei to eagle 2
+
+Pengfei (#ALL) > 
+this is pengfei to all 1
+
+===========================================
+|              End of Matt¡¯s Home Page  |
+===========================================
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: w
+
+===========================================
+|              Matt¡¯s Wall Page            |
+===========================================
+ (Kelly) > 
+this is Matt
+hi Kelly!
+
+ (#tiger) > 
+hi tigers!
+this is Matt
+
+More messages(yes/no): yes
+ (#ALL) > 
+this is Matt
+hi!
+
+Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Quit (q)
+
+Please choose an option: q
+
+	==============================================================
+	|           Thank you for using DistributedTigerBook System    |
+	==============================================================
+

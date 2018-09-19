@@ -1,0 +1,269 @@
+	===========================================================
+	|               The TigerBook Social Network              |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: n
+
+Please enter user name: pengfei yao
+	===========================================================
+	|               Welcome to TigerBook Social Network, pengfei yao!     |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: n
+
+Please enter user name: wanqi
+	===========================================================
+	|               Welcome to TigerBook Social Network, wanqi!     |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: n
+
+Please enter user name: mika
+	===========================================================
+	|               Welcome to TigerBook Social Network, mika!     |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: g
+
+Please enter the group name: #home
+	===========================================================
+	|                #home group created     |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: g
+
+Please enter the group name: #school
+	===========================================================
+	|                #school group created     |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: s
+
+Enter user name: pengfei
+User does not exit!
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #home
+	===========================================================
+	|              mika is in #home group       |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: s
+
+Enter user name: pengfei yao
+	===================================================================
+	|               Welcome back to TigerBook Social Network, pengfei yao!       |
+	=====================================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: j
+
+Please enter the group name: #home
+	===========================================================
+	|              pengfei yao is in #home group       |
+	===========================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: b
+
+Enter message: this is pengfei yao
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: m
+
+Please enter group name: #home
+
+Enter message: i am in school, i will come back soon!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: m
+
+Please enter group name: #home
+
+Enter message: i will there!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: u
+
+Enter the recipient user name: mika
+
+Enter message: hi mika!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: s
+
+Enter user name: wanqi
+	===================================================================
+	|               Welcome back to TigerBook Social Network, wanqi!       |
+	=====================================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: b
+
+Enter message: hi all!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: u
+
+Enter the recipient user name: pengfei yao
+
+Enter message: come back soon! be safe!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: s
+
+Enter user name: mika
+	===================================================================
+	|               Welcome back to TigerBook Social Network, mika!       |
+	=====================================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: m
+
+Please enter group name: #home
+
+Enter message: i am hungry!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: b
+
+Enter message: i am hungru
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: u
+
+Enter the recipient user name: wanqi
+
+Enter message: i am hungry!
+^!
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              mika¡¯s Home Page            |
+===========================================
+mika (wanqi) > i am hungry!
+
+mika (#ALL) > i am hungru
+
+More messages(yes/no): yes
+mika (#home) > i am hungry!
+
+wanqi (pengfei yao) > come back soon! be safe!
+
+wanqi (#ALL) > hi all!
+
+pengfei yao (mika) > hi mika!
+
+pengfei yao (#home) > i will there!
+
+pengfei yao (#home) > i am in school, i will come back soon!
+
+pengfei yao (#ALL) > this is pengfei yao
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: w
+
+===========================================
+|              mika¡¯s Wall Page            |
+===========================================
+ (wanqi) > i am hungry!
+ (#ALL) > i am hungru
+More messages(yes/no): yes
+ (#home) > i am hungry!
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: s
+
+Enter user name: pengfei yao
+	===================================================================
+	|               Welcome back to TigerBook Social Network, pengfei yao!       |
+	=====================================================================
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+Please choose an option: h
+
+===========================================
+|              pengfei yao¡¯s Home Page            |
+===========================================
+mika (wanqi) > i am hungry!
+
+mika (#ALL) > i am hungru
+
+More messages(yes/no): yes
+mika (#home) > i am hungry!
+
+wanqi (pengfei yao) > come back soon! be safe!
+
+wanqi (#ALL) > hi all!
+
+pengfei yao (mika) > hi mika!
+
+pengfei yao (#home) > i will there!
+
+pengfei yao (#home) > i am in school, i will come back soon!
+
+pengfei yao (#ALL) > this is pengfei yao
+
+Create new user (n), Broadcast (b), Multicast (m), Unicast (u), Wall page (w), Home page (h), Create new group (g),
+Join a group (j), Switch user (s), Quit (q)
+
+
+Please choose an option: q
+
+
+	==============================================================
+	|           Thank you for using TigerBook Social Network    |
+	==============================================================
